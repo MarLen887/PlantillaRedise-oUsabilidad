@@ -11,6 +11,5 @@ Plantilla de rediseño de la materia (Ingeniería de Usabilidad) **ya llenada** 
 1. Datos generales, 2. Card sorting (24 tarjetas y clave del equipo), 3. Flujo de usuario (diagrama), 4. Rediseño de tres pantallas (caja de compra, envío y Prime, vendedor), 5. Prueba rápida y conclusiones.
 
 ## Pendientes (se indican en el propio informe)
-- Nombre del equipo y fecha de entrega.
 - Resultados del card sorting con participantes y prueba de usabilidad con usuarios.
 - Las imágenes «Antes» son esquemas; sustituirlas por capturas reales. Las «Después» son capturas del prototipo: https://marlen887.github.io/AmazonHTML/
